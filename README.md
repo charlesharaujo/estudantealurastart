@@ -1,4 +1,4 @@
-__BOAS VINDAS AO MEU PERFIL__💙
+***BOAS VINDAS AO MEU PERFIL***💙
 Meu nome é Charles Henrique
 Estou estudando no **alura**
 Estou me desenvolvendo na linguagem ***JavaScript***
